@@ -26,5 +26,5 @@ env/
 .DS_Store
 Thumbs.db
 
-# Test outputs
-test_results.csv
+# Test outputs are now tracked for submission
+# test_results.csv
